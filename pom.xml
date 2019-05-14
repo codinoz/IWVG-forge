@@ -114,7 +114,6 @@
 			</plugin>
 		</plugins>
 	</build>
-
 	<developers>
 		<developer>
 			<name>Jesus Bernal</name>
